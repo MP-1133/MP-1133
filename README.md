@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **.NET Core , C# , JAVA , SQL**
 
-- 📫 How to reach me **mallikarjuntp9@gmail.com**
+- 📫 How to reach me **mptechnic143@gmail.com**
 
 - ⚡ Fun fact **Let's meet**
 
